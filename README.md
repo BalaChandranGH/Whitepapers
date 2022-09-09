@@ -7,6 +7,7 @@ In this whitepaper, an attempt has been made to produce a hybrid project managem
 
 Additionally, this whitepaper lists only very few commonly used existing DSPM methodologies/ approaches. Several DSPM methodologies are being developed and published from time to time which is outside the scope of this paper. The methodology discussed in this paper is suitable for any beginner who is interested to learn/managing data science projects.
 
+<br><br>
 ## Machine Learning Project Guidelines - For Beginners
 In this whitepaper, an attempt has been made to define the processes and different stages involved in an ML project. This whitepaper can be used as a guideline (or) a reference (or) an aid to develop and deliver ML projects. The focus in this paper is mainly on the process flow, guidelines to perform tasks, and the deliverables involved in various stages of an ML project; not on the technical aspects of how to implement ML algorithms. 
 
